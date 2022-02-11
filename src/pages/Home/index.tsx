@@ -20,13 +20,13 @@ const Home = () => {
           </div>
         </div>
       </div>
-      <div className="base-card home-bottom-card bcolor-grey ">
+      <div className="base-card home-bottom-card bcolor-grey">
         <div>
           <Link to="/products">
             <ButtonIcon text="ver catálogo"/>
           </Link>
         </div>
-        <div>
+        <div className="">
           <p>
             Comece agora a navegar
           </p>
